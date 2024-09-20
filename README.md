@@ -5,6 +5,8 @@ Deep Learning in Medical Images Course in TAU
 (1) Dataset Edditting:
   In this section, one can find tools for image enhancement. Specifically, image sharpenning (Done by unsharp masking algorithm [1]).
   In addition, few functions for data augmentation and the arrangmenet of the data in folders can be found in this section.
+
+
 (2) Neural Network for Semantic Segmentation:
   The model is a combination of DINOv2 (Encoder) and SegFormer (Decoder) for semantic segmentation.
   ![image](https://github.com/user-attachments/assets/bd05f179-188d-437c-babd-3bd6653fe4fe)
