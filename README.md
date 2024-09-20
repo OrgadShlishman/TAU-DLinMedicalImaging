@@ -16,9 +16,10 @@ Deep Learning in Medical Images Course in TAU
 Each function has a usage example, showing how to use it.
 
 (2) Using the Model.
+The code has examples and explanations in it (DINOv2 + SegFromer Model).
 
 
-
+# Additional information
 **In this project, the dataset was of RAVIR [2] and was supposed to improve SegRAVIR [3] model results.
 
 [1] https://en.wikipedia.org/wiki/Unsharp_masking
