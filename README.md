@@ -11,7 +11,8 @@ Deep Learning in Medical Images Course in TAU
   The model is a combination of DINOv2 (Encoder) and SegFormer (Decoder) for semantic segmentation.
   ![image](https://github.com/user-attachments/assets/bd05f179-188d-437c-babd-3bd6653fe4fe)
 
-* In this project, the dataset was of RAVIR [2] and was supposed to improve SegRAVIR [3] model results.
+
+**In this project, the dataset was of RAVIR [2] and was supposed to improve SegRAVIR [3] model results.
 
 [1] https://en.wikipedia.org/wiki/Unsharp_masking
 
