@@ -14,5 +14,9 @@ Deep Learning in Medical Images Course in TAU
 * In this project, the dataset was of RAVIR [2] and was supposed to improve SegRAVIR [3] model results.
 
 [1] https://en.wikipedia.org/wiki/Unsharp_masking
+
+
 [2] https://ravirdataset.github.io/data/
+
+
 [3] https://arxiv.org/pdf/2203.14928
