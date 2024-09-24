@@ -35,8 +35,9 @@ The code is similar to the combined model (SegFromer Model).
 # Important Configuration
 
 (1) Make sure you use the correct path to the dataset: "***/RAVIR Dataset"
-  The path should be the same one where you locate the dataset.
-
+  The path should be the same one where you locate the dataset. 
+For Example:
+"/content/drive/MyDrive/Deep Learning/Project/DataSet/RAVIR Dataset"
   
 (2) Make sure you use the following structure of the RAVIR dataset:
 
