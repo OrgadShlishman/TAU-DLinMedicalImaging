@@ -42,6 +42,9 @@ The code is similar to the combined model (SegFromer Model).
 
 # Images and Dataset Overview
 
+![image](https://github.com/user-attachments/assets/dd055d55-54e6-44ae-9ec9-dd8398ec1952)
+
+
 ## Test:
 
 ![image](https://github.com/user-attachments/assets/b1c3e3f0-e855-4eb9-ae19-fefc8457c00d)
