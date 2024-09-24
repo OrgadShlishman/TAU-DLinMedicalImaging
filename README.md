@@ -38,26 +38,30 @@ The code is similar to the combined model (SegFromer Model).
 (2) Make sure you use the following structure of the RAVIR dataset:
   ![image](https://github.com/user-attachments/assets/25adc859-af37-4afa-a538-efa8dae23470)
 
-    * test:
+    - test:
     ![image](https://github.com/user-attachments/assets/b1c3e3f0-e855-4eb9-ae19-fefc8457c00d)
 
     
-    * train:
+    - train:
     ![image](https://github.com/user-attachments/assets/c9895771-0578-41b0-82ac-66d3866bf6b0)
-      
-      * images:
+
+     
+      - images:
       ![image](https://github.com/user-attachments/assets/89f16833-f119-4b3b-aec7-830f6a287dfb)
+
       
-      * mask:
+      - mask:
       ![image](https://github.com/user-attachments/assets/b9d82bca-bab6-4f29-ad47-9601de746473)  
+
     
-    * validation:
+    - validation:
     ![image](https://github.com/user-attachments/assets/cd85c311-7752-4346-a3b2-7b4b488f7662)
 
-      * images:
+      - images:
       ![image](https://github.com/user-attachments/assets/d30a0805-1ece-4fec-9db7-d23d68bc69a3)
+
       
-      * mask:
+      - mask:
       ![image](https://github.com/user-attachments/assets/ced478a1-a9ef-4a0c-84db-2b16c9995b5c)
 
 
